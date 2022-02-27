@@ -8,6 +8,7 @@
 
 
 #  体验地址：
+扫码体验
 ![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/45191290/155882095-f184f2d3-1a99-4ddf-a854-90177cd76e7a.png)
 
 ![image](https://user-images.githubusercontent.com/45191290/155882082-95960f29-ad06-49b9-af81-a6ca3e8e5cee.png)
