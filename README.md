@@ -7,7 +7,11 @@
 ![1](https://user-images.githubusercontent.com/45191290/148683194-aa8c3c8c-3bc2-4517-9d65-ef7a1e36b397.jpg)
 
 
-#  体验地址： http://www.house.liyblog.top/blindBox/#/home/homeIndex 
+#  体验地址：
+![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/45191290/155882095-f184f2d3-1a99-4ddf-a854-90177cd76e7a.png)
+
+![image](https://user-images.githubusercontent.com/45191290/155882082-95960f29-ad06-49b9-af81-a6ca3e8e5cee.png)
+
 # ps：项目属于微信端公众号项目，请复制链接在微信端打开，浏览器不支持
 
 # 后端： 
